@@ -125,5 +125,5 @@ Watch the full app demo here:
 
 ## 🙌 Author
 
-**Your Name**  
-🔗 GitHub: [@your-username](https://github.com/SubithaNaidu)
+**Subitha Naidu**  
+🔗 GitHub: [@SubithaNaidu](https://github.com/SubithaNaidu)
