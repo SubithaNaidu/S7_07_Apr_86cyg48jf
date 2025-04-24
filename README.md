@@ -1,8 +1,4 @@
-Here’s a complete **README.md** file for your **Mini Personal Finance Tracker** project based on your exact requirements, tech stack, and structure. It's written professionally and clearly to be ready for GitHub or any documentation platform.
 
----
-
-```markdown
 # 💰 Mini Personal Finance Tracker
 
 A responsive, theme-aware finance tracker app built with **React + TypeScript**, allowing users to track income and expenses, view transaction summaries, and manage personal finances in a clean UI.
