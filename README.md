@@ -105,6 +105,7 @@ src/
 
 # Clone the repository
 git clone https://github.com/SubithaNaidu/S7_07_Apr_86cyg48jf.git
+
 cd mini-finance-tracker
 
 # Install dependencies
